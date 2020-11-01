@@ -260,6 +260,9 @@
 .footer__link {
   text-decoration: none;
   color: white;
+  display: flex;
+  align-items: center;
+  margin: 0;
 }
 
 .footer__social-icon {
@@ -290,12 +293,6 @@
 .content-social {
   line-height: 30px;
   font-size: 18px;
-  margin: 0;
-}
-
-.footer__link {
-  display: flex;
-  align-items: center;
   margin: 0;
 }
 
