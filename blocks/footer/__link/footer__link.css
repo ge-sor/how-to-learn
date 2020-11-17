@@ -5,9 +5,9 @@
   line-height: 30px;
   font-size: 18px;
   font-weight: normal;
+  transition: .5s;
 }
 
 .footer__link:hover {
-  transition: .5s;
-  opacity: 0.6;
+  opacity: .6;
 }
